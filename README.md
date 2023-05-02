@@ -1,4 +1,4 @@
-# AnalisisDeLaInformacion
+# Analisis De La Informacion
 Análisis de la Información FIUBA - 2023 1C
 
 
