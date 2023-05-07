@@ -4,6 +4,8 @@ Análisis de la Información FIUBA - 2023 1C - Gonzalez
 
 EL 4.4 está corregido con nota 100/100 y el 3.2 también
 
+Se puede usar Chrome Video Speed Controller que es una extension de chrome para adelantear los videos de edpuzzle
+
 Drives:
 * https://drive.google.com/drive/folders/1AzsQS9umEQqtX6x-stdwqq8QwXeGJ2xB
 
