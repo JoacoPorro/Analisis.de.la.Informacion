@@ -5,7 +5,7 @@ Análisis de la Información FIUBA - 2023 1C - Villagra
 EL 4.4 está corregido con nota 100/100 y el 3.2 también
 
 Para los videos de edpuzzle se puede usar Chrome Video Speed Controller (es una extension de chrome) 
-Se descarga aca 
+Se descarga aca https://microsoftedge.microsoft.com/addons/detail/super-video-speed-control/iplmmmmbamkaonmhjjoaomjbigkjgglf
 
 Drives:
 * https://drive.google.com/drive/folders/1AzsQS9umEQqtX6x-stdwqq8QwXeGJ2xB
