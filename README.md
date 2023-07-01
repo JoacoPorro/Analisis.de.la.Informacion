@@ -1,6 +1,7 @@
 # AnalisisDeLaInformacion
 ###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
-##### Dejame una ⭐!  Arriba estan los resueltos
+##### Dejame una ⭐! 
+##### Arriba estan los resueltos
 
 ### Drives:
 * https://drive.google.com/drive/folders/1AzsQS9umEQqtX6x-stdwqq8QwXeGJ2xB
