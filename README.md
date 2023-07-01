@@ -2,11 +2,6 @@
 Análisis de la Información FIUBA - 2023 1C - Villagra
 
 EL 4.4 y el 3.2 está corregido con nota 100/100 y el 4.7 tiene nota 85
-
-<span style="font-family: 'Arial'">Times New Roman</span> 
-
-Times New Roman
-
 Dejame una ⭐!
 
 Drives:
