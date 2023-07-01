@@ -1,6 +1,6 @@
 # AnalisisDeLaInformacion
 ###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
-##### Arriba estan los resueltos
+##### Arriba estan los resueltos, 3.2 y 4.4 con nota 100/100, 4.7 con 85/100
 ##### Dejame una ⭐! 
 
 ### Drives:
