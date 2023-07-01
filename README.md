@@ -1,8 +1,8 @@
 # AnalisisDeLaInformacion
-Análisis de la Información FIUBA - 2023 1C - Villagra
+###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
+##### Dejame una ⭐!
 
 EL 4.4 y el 3.2 está corregido con nota 100/100 y el 4.7 tiene nota 85
-Dejame una ⭐!
 
 Drives:
 * https://drive.google.com/drive/folders/1AzsQS9umEQqtX6x-stdwqq8QwXeGJ2xB
