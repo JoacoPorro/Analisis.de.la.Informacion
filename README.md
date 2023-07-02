@@ -1,4 +1,4 @@
-# AnalisisDeLaInformacion
+# Analisis De La Informacion
 ###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
 ##### Arriba estan los resueltos
 ##### Dejame una ⭐! 
