@@ -1,4 +1,4 @@
-# Nota 85/100
+## Nota 85/100
 
 La resolución es bastante directa a partir de la interpretación del enunciado.
 
