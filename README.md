@@ -16,5 +16,6 @@
 - El primer ejercicio de codigo que nos dieron (al menos en este cuatri) no lo corrigen ni lleva nota, nada mas tiene que estan entregado a tiempo por los puntos de gamificacion
 - NO se queden en el zoom hasta que termina la reunion automaticamnte porque se dan cuenta de que no estabas en la clase.
 - Si tenes al menos 2-3 cosas mal en un ejercicio de desarrollo, en general te ponen menos de 40. Si el ejercicio no esta muy cerca de estar 100% correcto, es probable que lo aplazen. No tienen reentrega ni nada
+- https://balsamiq.com/buy/#cloud Usen Balsamiq antes para prototipos, es muy facil y rapido
 
 ### Viva la Libertad Carajo!
