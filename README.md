@@ -1,5 +1,5 @@
 # AnalisisDeLaInformacion
-###### Se agradece la generosidad! Pasen todos sus drives a jporro@fi.uba.ar
+###### Pasen material que falte -> jporro@fi.uba.ar.
 ##### Dejame una ⭐! 
 
 ### Drives:
