@@ -1,4 +1,4 @@
-# Material Analisis de la Informacion
+# Material Analisis De La Informacion
 ###### Pasen resueltos -> jporro@fi.uba.ar.
 ##### Dejame una ⭐! 
 
