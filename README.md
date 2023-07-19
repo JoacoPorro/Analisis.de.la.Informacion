@@ -15,7 +15,7 @@
 - El primer ejercicio de codigo (al menos en este cuatri) no lleva nota, unicamente sumas puntos de gamificacion
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. Devuelta, la nota es 'subjetiva', depende quien te corrija
 - Ellos cierran el zoom unos minutos despues de terminar la clase y asi se dan cuanta quienes se fueron de la clase.
-- https://balsamiq.com/buy/#cloud Usen Balsamiq (no Figma) para prototipos, es muy facil y rapido. Sobretodo usen balsamiq si piden prototipos en el recu que tenes poco tiempo.
+- Usen Balsamiq --> Es Facil y Rapido. Sobretodo usenlo en el recu que tenes poco tiempo. Si piden diesño creo que tienen que usar figma, en ese caso busquen algun template y usen eso de base.
 
 ##### Dejame una ⭐! 
 
