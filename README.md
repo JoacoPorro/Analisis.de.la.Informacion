@@ -1,5 +1,5 @@
 # Material Analisis De La Informacion
-###### Drives que falten --> jporro@fi.uba.ar.
+###### Drives que falten --> jporro@fi.uba.ar
 
 ### Drives:
 * https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO
