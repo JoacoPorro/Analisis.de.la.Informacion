@@ -1,6 +1,6 @@
 ## Nota 100/100 
 
-### (Lean la aclaracion de los IDs)
+### (Lean la aclaracion de los IDs, no creo que sea necesario poner 2 textos para cada direccion de una flecha, pero bueno se saco 100/100 jaja)
 
 
 ![Ivan Erlich - 9520-Actividad 4 7 (Desarrollo)-1](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/10851674-f556-4141-ac13-6e27b7de79cc)
