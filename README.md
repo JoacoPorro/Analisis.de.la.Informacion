@@ -11,11 +11,11 @@
 * https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv (otra catedra)
 
 ### Tips:
-- Para los videos de edpuzzle se puede usar Chrome Video Speed Controller (es una extension de chrome), se descarga aca https://microsoftedge.microsoft.com/addons/detail/super-video-speed-control/iplmmmmbamkaonmhjjoaomjbigkjgglf. Sino tenes que ver los videos completos y son largos
-- Hagan bien el 3.2 (Onion Model) Porque pesa mucho en la nota final asi promocionan. Arriba esta hecho con nota 100/100
-- El primer ejercicio de codigo que nos dieron (al menos en este cuatri) no lo corrigen ni lleva nota, nada mas tiene que estan entregado a tiempo por los puntos de gamificacion
-- NO se queden en el zoom hasta que termina la reunion automaticamnte porque se dan cuenta de que no estabas en la clase.
-- Si tenes al menos 2-3 cosas mal en un ejercicio de desarrollo, en general te ponen menos de 40. Si el ejercicio no esta muy cerca de estar 100% correcto, es probable que lo aplazen. No tienen reentrega ni nada
-- https://balsamiq.com/buy/#cloud Usen Balsamiq (no Figma) para prototipos, es muy facil y rapido
+- Si no queres tener que ver los videos completos de Edpuzzle --> [Chrome Video Speed Controller]([https://microsoftedge.microsoft.com/addons/detail/super-video-speed-control/iplmmmmbamkaonmhjjoaomjbigkjgglf](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa)) (es una extension), te permite ver videos de 1 hora en pocos minutos
+- El Onion Model supuestamente pesa mucho mas que otros ejercicios (No se, creo que la nota la dibujan al final de la materia) pero por las dudas arriba esta hecho con nota 100/100
+- El primer ejercicio de codigo (al menos en este cuatri) no lleva nota, unicamente suma puntos de gamificacion
+- Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. Devuelta, la nota es 'subjetiva', si no esta bien --> esta mal ajaj
+- Ellos cierran el zoom unos minutos despues de terminar la clase y asi se dan cuanta quienes se fueron de la clase.
+- https://balsamiq.com/buy/#cloud Usen Balsamiq (no Figma) para prototipos, es muy facil y rapido. Sobretodo usen balsamiq si piden prototipos en el recu que tenes poco tiempo.
 
 ### Viva la Libertad Carajo!
