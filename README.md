@@ -1,5 +1,5 @@
 # Material Analisis De La Informacion
-###### Pasen resueltos -> jporro@fi.uba.ar.
+###### Drives que falten --> jporro@fi.uba.ar.
 ##### Dejame una ⭐! 
 
 ### Drives:
