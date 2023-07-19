@@ -1,6 +1,7 @@
 ## Nota 85/100
 
 La resolución es bastante directa a partir de la interpretación del enunciado.
+
 Objetos de dominio: Alumno, Materia, Curso, Carrera, Plan de Estudios, Oferta Académica.
 
 A) Comentarios acerca de la resolución
