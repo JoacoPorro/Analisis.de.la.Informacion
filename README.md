@@ -17,6 +17,6 @@
 - Ellos cierran el zoom unos minutos despues de terminar la clase y asi se dan cuanta quienes se fueron de la clase.
 - Usen Balsamiq --> Es Facil y Rapido. Sobretodo usenlo en el recu que tenes poco tiempo. Si piden diesño creo que tienen que usar figma, en ese caso busquen algun template y usen eso de base.
 
-### Dejame una ⭐
+### Dejame una ⭐ arriba
 
 ### Viva la Libertad Carajo!
