@@ -13,7 +13,7 @@
 ### Tips:
 - Si no queres tener que ver los videos completos de Edpuzzle --> [Video Speed Controller](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) (es una extension) te permite ver videos de 1 hora en pocos minutos
 - El Onion Model supuestamente pesa mucho mas que otros ejercicios (No se, creo que la nota la dibujan al final de la materia) pero por las dudas arriba esta hecho con nota 100/100
-- El primer ejercicio de codigo (al menos en este cuatri) no lleva nota, unicamente suma puntos de gamificacion
+- El primer ejercicio de codigo (al menos en este cuatri) no lleva nota, unicamente sumas puntos de gamificacion
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. Devuelta, la nota es 'subjetiva', si no esta bien --> esta mal ajaj
 - Ellos cierran el zoom unos minutos despues de terminar la clase y asi se dan cuanta quienes se fueron de la clase.
 - https://balsamiq.com/buy/#cloud Usen Balsamiq (no Figma) para prototipos, es muy facil y rapido. Sobretodo usen balsamiq si piden prototipos en el recu que tenes poco tiempo.
