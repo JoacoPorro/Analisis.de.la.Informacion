@@ -9,11 +9,13 @@ Hay que desarrollar una especificación de requisitos en lenguaje natural. Qué 
 * Que identifique y clasifique correctamente cada uno de los requisitos (al menos se deben diferenciar los funcionales de los no funcionales)
 
 #### Críticos
-* Que incluya carátula e índice
+* Que incluya carátula e índice (Preguntar que es la caratula)
 * Opcionalmente, que se sigan los lineamientos EARS al describir los requisitos.
 
 #### Menores
 * Faltas de ortografía
+* Que se hable en presente como si ya estuviera hecho el sistema (Sacado de una correccion)
+* No se describe como se calculan subtotales, descuentos y totales (Sacado de una correccion)
 
 ### Temas importantes en este ejercicio:
 #### Muy críticos
