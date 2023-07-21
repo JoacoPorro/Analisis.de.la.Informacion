@@ -15,15 +15,15 @@
 - Navegación: secuencia de pasos correcta, todos los caminos
 
 #### Críticos
-a. Falta de información, inconsistencia con las historias/criterios
-b. Falta de caminos no felices o falta de alguno de los caminos principales
-c. Datos de muestra no reales
+- Falta de información, inconsistencia con las historias/criterios
+- Falta de caminos no felices o falta de alguno de los caminos principales
+- Datos de muestra no reales
 
 #### Menores
-a. Faltas de ortografía
-b. Temas menores en layout, navegación, balanceo
+- Faltas de ortografía
+-  Temas menores en layout, navegación, balanceo
 
 ### Temas importantes en este ejercicio:
-Debe balancear con lo hecho en el ejercicio 4.8
+- Debe balancear con lo hecho en el ejercicio 4.8
 
 #### Sergio Recomendo este [articulo](https://www.nngroup.com/articles/ten-usability-heuristics/) para hacer buenos diseños por Slack 
