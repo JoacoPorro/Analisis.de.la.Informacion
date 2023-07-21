@@ -8,7 +8,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 
 ### Drives:
 * https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO
-* https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k
+* https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k (otra catedra)
 
 ### Clases: 
 * https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv (otra catedra)
