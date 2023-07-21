@@ -4,7 +4,7 @@ Aspectos generales del modelo de dominio:
 
 Muy críticos (invalidan la resolución si no están presentes)
 
-a) En el modelo no debe haber:
+##### a) En el modelo no debe haber:
 a1) Atributos referenciales, es decir, atributos que contengan referencias a otros objetos (para eso están las asociaciones)
 a2) Asociaciones reflexivas sin multiplicidades que incluyan condicionalidad (0..1; 0..*)
 a3) Temas vinculados a la implementación
