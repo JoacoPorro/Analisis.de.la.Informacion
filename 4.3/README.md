@@ -1,5 +1,7 @@
 ## Coregido Nota 80/100
 
+![Joaquín Porro - 9520-Actividad 4 3 (Desarrollo)_page-0001](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/35b7e350-96c7-4546-84af-baee108fdd9f)
+
 ![4 3 nose](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/834a77fa-158f-45b8-bfa8-bd97c2ccdec5)
 
 ### Correcciones
