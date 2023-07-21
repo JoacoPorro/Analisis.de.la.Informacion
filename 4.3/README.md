@@ -1,9 +1,11 @@
-## Resuelto 4.3 (Creo que es este ej) Nota 80/100
+## Coregido Nota 80/100
 
 ![4 3 nose](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/834a77fa-158f-45b8-bfa8-bd97c2ccdec5)
 
-### Criterio especifico para el ejercicio
+### Correcciones
+![image](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/e6a70300-d068-486d-b5f6-ead480260b94)
 
+### Criterio especifico para el ejercicio
 #### Aspectos muy críticos que deben estar en el modelo (si no están, invalidan toda la resolución)
 
 * La asociación reflexiva en el objeto Categoría debe ser 0..1 a 0..* (es una jerarquía, no una red) La condicionalidad es clave; si falta, la asociación es infinita (para todas las categorías habría una categoría inferior y otra superior)
