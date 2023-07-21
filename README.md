@@ -7,7 +7,8 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 --> 
 
 ### Resueltos:
-* [3.2 Onion Model](/3.2)
+* [3.2](/3.2) (Onion Model)
+* [4.3](/4.3)
 
 ### Drives:
 * https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO
