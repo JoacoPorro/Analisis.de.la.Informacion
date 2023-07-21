@@ -1,6 +1,6 @@
 ## Criterios de Correccion Diseño
 
-1) Aspectos generales:
+1 - Aspectos generales:
 Hay que diseñar las interfaces de usuario para las historias de usuario identificadas en la actividad 4.8. Qué se espera de ella:
 - Que sea un diseño, no un prototipo
 - Que se respeten las ideas y principios de la comunicación efectiva
@@ -23,5 +23,5 @@ Menores
 a. Faltas de ortografía
 b. Temas menores en layout, navegación, balanceo
 
-2) Temas importantes en este ejercicio:
+2 - Temas importantes en este ejercicio:
 Debe balancear con lo hecho en el ejercicio 4.8.
