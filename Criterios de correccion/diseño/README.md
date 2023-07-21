@@ -26,4 +26,4 @@
 ### Temas importantes en este ejercicio:
 - Debe balancear con lo hecho en el ejercicio 4.8
 
-#### Sergio Recomendo este [articulo](https://www.nngroup.com/articles/ten-usability-heuristics/) para hacer buenos diseños por Slack 
+#### Sergio Recomendo este [articulo](https://www.nngroup.com/articles/ten-usability-heuristics/) para 'tener en cuenta' por Slack 
