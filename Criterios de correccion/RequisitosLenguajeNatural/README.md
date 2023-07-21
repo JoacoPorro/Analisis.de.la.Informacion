@@ -1,3 +1,4 @@
+## Criterios de Correccion Requisitos Lenguaje Natural
 ### Aspectos generales:
 Hay que desarrollar una especificación de requisitos en lenguaje natural. Qué se espera de ella:
 
