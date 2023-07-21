@@ -3,7 +3,6 @@
 
 ### Drives:
 * https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO
-* https://drive.google.com/drive/folders/1AzsQS9umEQqtX6x-stdwqq8QwXeGJ2xB
 * https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k
 
 ### Clases: 
