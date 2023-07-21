@@ -1,5 +1,10 @@
-# Material Analisis De La Informacion
+# Analisis De La Informacion
 ###### Drives que falten --> jporro@fi.uba.ar
+
+<!-- 
+Descripcion
+Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips para esta catedra. Los drives contienen exámenes resueltos, apuntes, etc. FIUBA
+--> 
 
 ### Drives:
 * https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO
