@@ -34,7 +34,7 @@
 
 ##### Los usuarios de las historias (que no necesariamente son personas) deben estar representados en el diagrama de contexto
 -->
-### Corregidos por Sergio
+### Corregidos por Sergio, mas [aca](/)
 ![image](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/f827c1e8-a1d7-4a95-a055-f13169cb23ca)
 ![image](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/37f51393-10d6-4e98-b614-392519b75fe0)
 
