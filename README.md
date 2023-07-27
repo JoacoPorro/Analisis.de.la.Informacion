@@ -7,17 +7,17 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 --> 
 
 ### Resueltos:
-| Tipo de Ejercicio  | Nro |  Nota |
-| ------------------ | ---- | ---- |
-| Onion Model  | 3.2 | [100/100](/3.2)  |
-| UML | 4.2 | [Aprobado](/Resuelto%204.2)  |
-| UML | 4.3 | [80/100](/4.3)  |
-| UML | 4.4 | [100/100](/Resuelto%204.4)  |
-| UML | 4.7 |  [100/100](/Resuelto%204.7)  |
-| UML | 4.8 | [100/100](/Resuelto%204.8)  |
-| UML | 4.9 | [100/100](/Resuelto%204.9)  |
-| Base de Datos  | 10.1 | [60/100](/Resuelto%2010.1)  |
-| Resumen Articulo  | 12.1 | [90/100](/Resuelto%2012.1)  |
+| Tipo de Ejercicio  | Nota |
+| ------------------ | ---- |
+| Onion Model  | [100/100](/3.2)  |
+| UML | [Aprobado](/Resuelto%204.2)  |
+| UML | [80/100](/4.3)  |
+| UML | [100/100](/Resuelto%204.4)  |
+| UML | [100/100](/Resuelto%204.7)  |
+| UML | [100/100](/Resuelto%204.8)  |
+| UML | [100/100](/Resuelto%204.9)  |
+| Base de Datos | [60/100](/Resuelto%2010.1)  |
+| Resumen Articulo  | [90/100](/Resuelto%2012.1)  |
 
 * [4.7](/Resuelto%204.7)
 * [4.8](/RESUELTO%204.8)
