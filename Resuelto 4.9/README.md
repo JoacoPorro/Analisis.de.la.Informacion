@@ -3,11 +3,11 @@
 ### Criterios especificos para este ejercicio
 #### Muy críticos
 * La cantidad de requisitos puede variar. Lo importante es que se refleje la siguiente funcionalidad:
-- Actualización de aranceles de matrículas y cuotas
-- Emisión y envío de facturas
-- Cobro mediante tarjetas de crédito/débito, con autorización contra el Gateway de Pagos
-- Recepción y registro del comprobante de pago por transferencia
-- Envío diario de las transacciones de pago al Gateway de Pagos.
+  - Actualización de aranceles de matrículas y cuotas
+  -  Emisión y envío de facturas
+  - Cobro mediante tarjetas de crédito/débito, con autorización contra el Gateway de Pagos
+  - Recepción y registro del comprobante de pago por transferencia
+  - Envío diario de las transacciones de pago al Gateway de Pagos.
 * No se debe describir ningún aspecto de implementación. Se deben describir los requisitos funcionales, es decir, la esencia del sistema (lo que el sistema debe hacer independientemente de cómo se implemente) Los requisitos no funcionales pueden deducirse a partir de la descripción que se hace de ciertos aspectos particulares, pero deben ser bien específicos..
 
 #### Críticos
