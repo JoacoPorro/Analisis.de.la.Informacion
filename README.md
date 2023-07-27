@@ -6,7 +6,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 --> 
 
 ### Resueltos:
-| Tipo de Ejercicio  | Resuelto | Otro Resuelto |
+| Tipo de Ejercicio  | Mejor Resuelto | Otro Resuelto |
 | ------------------ | ---- | ---- |
 | Onion Model  | [**100/100**](/3.2)  | [**60/100**](/3.2/Otro%20Resuelto) |
 | HDU | [**Aprobado**](/Resuelto%204.2) |
