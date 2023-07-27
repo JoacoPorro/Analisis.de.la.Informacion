@@ -20,13 +20,6 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 
 <!-- | Varios | [100/100](/Resuelto%204.8)  | -->
 
-* [4.7](/Resuelto%204.7)
-* [4.8](/RESUELTO%204.8)
-* [4.9](/Resuelto%204.9)
-* [8.4](/Resuelto%208.4)
-* [10.1](/Resuelto%2010.1)
-* [12.1](/Resuelto%2012.1)
-
 ### Drives:
 * [Drive Villagra 2021](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO) (Algunos Cuestionarios y ejs de desarrollo Resueltos)
 * [Drive de otra catedra](https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k)
