@@ -9,7 +9,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 ### Resueltos:
 | Tipo de Ejercicio  | Resuelto | Otro Resuelto |
 | ------------------ | ---- | ---- |
-| Onion Model  |[**100**/**100**](/3.2)  | [**60/100**](/3.2/Otro%20Resuelto) |
+| Onion Model  | [**100**/**100**](/3.2)  | [**60/100**](/3.2/Otro%20Resuelto) |
 | HDU | [**Aprobado**](/Resuelto%204.2) |
 | UML | [**80**/**100**](/4.3)  |
 | UML | [**100**/**100**](/Resuelto%204.4)  |
@@ -29,7 +29,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 
 ### Tips:
 - Si no queres tener que ver los videos completos de Edpuzzle --> [Video Speed Controller](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) (es una extension) te permite ver videos de 1 hora en pocos minutos
-- El Onion Model supuestamente pesa mucho mas que otros ejercicios (No se, creo que la nota la dibujan al final de la materia) pero por las dudas arriba esta hecho con nota 100/100
+- El Onion Model supuestamente pesa mucho mas que otros ejercicios (No se, creo que la nota la dibujan al final de la materia) pero por las dudas [arriba](/3.2) esta hecho con nota 100/100
 - El primer ejercicio de codigo (al menos en 1C 2023) no lleva nota, unicamente sumas puntos de gamificacion
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. Devuelta, la nota es 'subjetiva', depende quien te corrija
 - Ellos cierran el zoom unos minutos despues de terminar la clase y asi se dan cuenta quienes se fueron de la clase. Tambien despues de toda la cursaada suben unos excels con la cantidad de minutos que estuviste en cada clase
