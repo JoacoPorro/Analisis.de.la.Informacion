@@ -1,4 +1,4 @@
-## [Corregido]() Nota 100/100
+## [Corregido](#Correcciones) Nota 100/100
 
 ![Resuelto 3 2-1](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/6536a681-62ad-4cf8-b088-122bfdf93171)
 ![Resuelto 3 2-2](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/ea7f32f0-9587-45b2-add4-0e399eac79f4)
