@@ -10,9 +10,9 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 | Tipo de Ejercicio  | Nota |
 | ------------- | ------------- |
 | Onion Model  | [100/100](/3.2)  |
-| UML Modelo de Dominio  | [Aprobado](/Resuelto%204.2)  |
-| UML Modelo de Dominio | [80/100](/4.3)  |
-| UML Modelo de Dominio | [100/100](/Resuelto%204.4)  |
+| UML MDD  | [Aprobado](/Resuelto%204.2)  |
+| UML MDD | [80/100](/4.3)  |
+| UML MDD | [100/100](/Resuelto%204.4)  |
 | UML  | [100/100](/Resuelto%204.7)  |
 | UML  | [100/100](/Resuelto%204.8)  |
 | UML  | [100/100](/Resuelto%204.9)  |
