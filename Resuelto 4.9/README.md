@@ -1,6 +1,6 @@
 ## Corregido 40/100
 
-##### Arriba esta el pdf parra descargar
+###### Arriba esta el pdf parra descargar
 
 ![4 9-1](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/315aaa63-14fc-44b8-bb63-3f44fbb78809)
 ![4 9-2](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/f9c8e772-fef7-4a3b-bc2e-a9e49e13bbb2)
