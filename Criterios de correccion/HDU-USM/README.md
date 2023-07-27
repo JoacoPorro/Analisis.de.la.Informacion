@@ -17,6 +17,7 @@
 - Independiente: No debe depender de otras historias; debe ser autocontenida
 - Completa: No faltan pasos
 
+<!--
 ### Aspectos específicos de las historias de usuario y del USM en este ejercicio:
 #### La cantidad de historias puede variar. Lo importante es que se respeten los criterios QUS e INVEST:
 
@@ -32,3 +33,8 @@
 ##### La interacción con el gateway de pago no es una historia independiente, forma parte de la correspondiente al pago de las facturas
 
 ##### Los usuarios de las historias (que no necesariamente son personas) deben estar representados en el diagrama de contexto
+-->
+### Corregidos por Sergio
+![image](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/f827c1e8-a1d7-4a95-a055-f13169cb23ca)
+![image](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/37f51393-10d6-4e98-b614-392519b75fe0)
+
