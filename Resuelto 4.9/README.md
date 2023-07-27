@@ -1,11 +1,10 @@
 ## Corregido 40/100
 
-###### Arriba esta el pdf parra descargar
-
 ![4 9-1](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/315aaa63-14fc-44b8-bb63-3f44fbb78809)
 ![4 9-2](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/f9c8e772-fef7-4a3b-bc2e-a9e49e13bbb2)
 ![4 9-3](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/aebb207e-6004-4b5e-82b2-6921074721bc)
 ![4 9-4](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/9dc20440-6bcc-4378-a375-063095e388b1)
+###### Arriba esta el pdf para descargar
 
 
 ### Criterios especificos para este ejercicio
