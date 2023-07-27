@@ -1,5 +1,7 @@
 ## Corregido 40/100
 
+[4.9.pdf](https://github.com/jporro/AnalisisDeLaInformacion/files/12186239/4.9.pdf)
+
 ### Criterios especificos para este ejercicio
 #### Muy críticos
 * La cantidad de requisitos puede variar. Lo importante es que se refleje la siguiente funcionalidad:
