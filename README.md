@@ -12,7 +12,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 * [4.3](/4.3)
 * [4.4](/Resuelto%204.4)
 * [4.7](/Resuelto%204.7)
-* [4.8](/Resuelto%204.8)
+* [4.8](/RESUELTO%204.8)
 * [4.9](/Resuelto%204.9)
 * [8.4](/Resuelto%208.4)
 * [10.1](/Resuelto%2010.1)
