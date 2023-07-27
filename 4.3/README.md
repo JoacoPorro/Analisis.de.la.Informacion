@@ -5,7 +5,6 @@
 ![4 3 nose](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/834a77fa-158f-45b8-bfa8-bd97c2ccdec5)
 
 ### Correcciones
-![image](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/e6a70300-d068-486d-b5f6-ead480260b94)
 
 ### Criterio especifico para el ejercicio
 #### Aspectos muy críticos que deben estar en el modelo (si no están, invalidan toda la resolución)
@@ -35,3 +34,5 @@
 #### Aspectos no críticos que deben estar en el modelo (si no están, impactan levemente en la resolución)
 
 - Si se incluye el campo Stock en Producto, debe estar antecedido con “/” (es un campo calculado que se obtiene de sumar las cantidades en stock del producto en los diferentes depósitos)
+
+![image](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/e6a70300-d068-486d-b5f6-ead480260b94)
