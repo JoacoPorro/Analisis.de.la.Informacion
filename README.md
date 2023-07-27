@@ -14,7 +14,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 | UML | [80/100](/4.3)  |
 | UML | [100/100](/Resuelto%204.4)  |
 | UML | [100/100](/Resuelto%204.7)  |
-| UML | [100/100](/Resuelto%204.8)  |
+<!-- | UML | [100/100](/Resuelto%204.8)  | -->
 | UML | [100/100](/Resuelto%204.9)  |
 | Base de Datos | [60/100](/Resuelto%2010.1)  |
 | Resumen Articulo  | [90/100](/Resuelto%2012.1)  |
