@@ -21,7 +21,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 <!-- | Varios | [100/100](/Resuelto%204.8)  | -->
 
 ### Drives:
-* [Drive Villagra 2021](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO) (Algunos Cuestionarios y ejs de desarrollo Resueltos)
+* [Drive Villagra 2021](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO) (**Mas ejercicios Resueltos y cuestionarios corregidos**)
 * [Drive de otra catedra](https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k)
 
 ### Clases: 
