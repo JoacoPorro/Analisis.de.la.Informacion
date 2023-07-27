@@ -1,4 +1,4 @@
-# Coleccion Analisis De La Informacion FIUBA
+# Colección Análisis De La Información FIUBA
 
 <!-- 
 Descripcion
