@@ -27,7 +27,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 * https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv (otra catedra)
 
 ### ___TIPS___:
-- Si __NO__ queres tener que ver los videos completos de Edpuzzle --> [Video Speed Controller](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) _(extension de chrome)_. Te permite ver videos mucho mas rapido.
+- Si __NO__ queres tener que ver los videos completos de EDPUZZLE --> [Video Speed Controller](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) _(extension de chrome)_. Te permite ver videos mucho mas rapido.
 - El Onion Model supuestamente pesa mucho mas que otros ejercicios (No se, creo que la nota la dibujan al final de la materia) pero por las dudas [aca](/3.2) esta hecho con nota 100/100.
 - El primer ejercicio de codigo (al menos en 1C 2023) no lleva nota, unicamente sumas puntos de gamificacion.
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. Devuelta, la nota es 'subjetiva', depende quien te corrija
