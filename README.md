@@ -32,7 +32,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 - El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion.
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. Devuelta, la nota es 'subjetiva', depende quien te corrija
 - Ellos cierran el zoom unos minutos despues de terminar la clase y asi se dan cuenta quienes se fueron de la clase. Tambien despues de toda la cursaada suben unos excels con la cantidad de minutos que estuviste en cada clase.
-- Para Prototipos --> ___BALSAMIQ___ _(Facil y Rapido)_. Sobretodo usenlo en el recu que hay poco tiempo.
+- Para ___PROTOTIPOS___ --> ___BALSAMIQ___ _(Facil y Rapido)_. Sobretodo usenlo en el recu que hay poco tiempo.
 - Para Diseños --> ___PENPOT O FIGMA___ Figma es medio enogrroso
 
 ### Subi lo que quieras [link](https://forms.gle/KTTUqcFEXLSGEHN3A) ___100% ANONIMO___y deja ⭐
