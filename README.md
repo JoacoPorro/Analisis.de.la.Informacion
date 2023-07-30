@@ -35,6 +35,6 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 - Para ___PROTOTIPOS___ --> ___BALSAMIQ___ _(Facil y Rapido)_.
 - Para ___DISEÑOS___ --> ___PENPOT O FIGMA___. Figma es medio enogrroso.
 
-### Subi __TODO__ lo que quieras ___100% ANONIMO___ [__links__](https://forms.gle/KTTUqcFEXLSGEHN3A)
+### Subi __TODO__ lo que quieras ___100% ANONIMO___ [__link__](https://forms.gle/KTTUqcFEXLSGEHN3A)
 
 ### Viva la Libertad Carajo!
