@@ -1,11 +1,11 @@
-# Colección Análisis De La Información FIUBA
+# ___Colección Análisis De La Información FIUBA___
 
 <!-- 
 Descripcion
 Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips para esta catedra. Los drives contienen exámenes resueltos, apuntes, etc. FIUBA
 --> 
 
-### Resueltos:
+### ___RESUELTOS:___
 | Tipo de Ejercicio  | Mejor Resuelto | Otro Resuelto |
 | ------------------ | ---- | ---- |
 | Onion Model  | [**100/100**](/3.2)  | [**60/100**](/3.2/Otro%20Resuelto) |
@@ -19,14 +19,14 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 
 <!-- | Varios | [100/100](/Resuelto%204.8)  | -->
 
-### Drives:
+### ___DRIVES___:
 * [Drive Villagra 2021 _(Ejercicios resueltos y cuestionarios corregidos)_](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO)
 * [Drive de otra catedra](https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k)
 
-### Clases: 
+### ___CLASES___: 
 * https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv (otra catedra)
 
-### Tips:
+### ___TIPS___:
 - Si no queres tener que ver los videos completos de Edpuzzle --> [Video Speed Controller](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) (es una extension) te permite ver videos de 1 hora en pocos minutos.
 - El Onion Model supuestamente pesa mucho mas que otros ejercicios (No se, creo que la nota la dibujan al final de la materia) pero por las dudas [aca](/3.2) esta hecho con nota 100/100.
 - El primer ejercicio de codigo (al menos en 1C 2023) no lleva nota, unicamente sumas puntos de gamificacion.
