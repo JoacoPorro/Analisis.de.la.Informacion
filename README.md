@@ -6,6 +6,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 --> 
 
 ### ___RESUELTOS:___
+
 | Tipo de Ejercicio  | Mejor Resuelto | Otro Resuelto |
 | ------------------ | ---- | ---- |
 | Onion Model  | [**100/100**](/3.2)  | [**60/100**](/3.2/Otro%20Resuelto) |
@@ -16,11 +17,10 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 | Requisitos | [**40/100**](/Resuelto%204.9)  | [**30/100**](/Resuelto%204.9/Otro) |
 | Base de Datos | [**60/100**](/Resuelto%2010.1)  |
 | Resumen Articulo  | [**90/100**](/Resuelto%2012.1)  |
-
 <!-- | Varios | [100/100](/Resuelto%204.8)  | -->
 
 ### ___DRIVES___:
-* [Drive Villagra 2021 _(Ejercicios resueltos y cuestionarios corregidos)_](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO)
+* [Drive Villagra 2021 _(Ejercicios resueltos y CUESTIONARIOS corregidos)_](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO)
 * [Drive de otra catedra](https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k)
 
 ### ___CLASES___: 
