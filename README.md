@@ -28,7 +28,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 
 ### ___TIPS___:
 - Queres ver los videos de ___EDPUZZLE RAPIDO___? Usa [___VIDEO SPEED CONTROLLER___](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) _(extension de chrome)_. __x600__ para mayor velocidad 
-- El Onion Model pesa mucho mas que otros ejercicios. Arriba esta [_resuelto 100/100_](/3.2).
+- El Onion Model pesa mucho mas que otros ejercicios. Arriba hay un modelo resuelto 100/100.
 - El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion.
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. Devuelta, la nota es 'subjetiva', depende quien te corrija
 - Ellos cierran el zoom unos minutos despues de terminar la clase y asi se dan cuenta quienes se fueron de la clase. Tambien despues de toda la cursaada suben unos excels con la cantidad de minutos que estuviste en cada clase.
