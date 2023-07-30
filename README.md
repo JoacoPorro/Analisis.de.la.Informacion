@@ -34,6 +34,6 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 - Ellos cierran el zoom unos minutos despues de terminar la clase y asi se dan cuenta quienes se fueron de la clase. Tambien despues de toda la cursaada suben unos excels con la cantidad de minutos que estuviste en cada clase.
 - Usen Balsamiq --> Es Facil y Rapido. Sobretodo usenlo en el recu que tenes poco tiempo. Si piden diesño creo que tienes que usar figma o penpot, en ese caso busquen algun template y usenlo como base.
 
-#### Subi lo que quieras [link](https://forms.gle/KTTUqcFEXLSGEHN3A) _(100% anónimo)_ y deja ⭐
+### Subi lo que quieras [link](https://forms.gle/KTTUqcFEXLSGEHN3A) _(100% anónimo)_ y deja ⭐
 
-#### Viva la Libertad Carajo!
+### Viva la Libertad Carajo!
