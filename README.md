@@ -38,4 +38,4 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 
 ### Viva la Libertad Carajo!
 
-[^1]: _(100% anónimo)_
+[^1]: ___100% ANONIMO___
