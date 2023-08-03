@@ -31,7 +31,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 - El Onion Model pesa mucho mas que otros ejercicios. Arriba hay un modelo resuelto 100/100.
 - El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion.
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. La nota es 'subjetiva'
-- Ellos cierran el zoom unos minutos despues de terminar la clase y asi se dan cuenta quienes se fueron de la clase. Tambien despues de toda la cursaada suben unos excels con la cantidad de minutos que estuviste en cada clase.
+- Toman lista viendo cuantos minutos estuviste en cada zoom, y veces llaman para ver si estas. Si no estas se enojan
 - Para ___PROTOTIPOS___ --> ___BALSAMIQ___ _(Facil y Rapido)_.
 - Para ___DISEÑOS___ --> ___PENPOT O FIGMA___. Figma es medio enogrroso.
 
