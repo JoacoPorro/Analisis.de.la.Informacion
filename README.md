@@ -1,11 +1,11 @@
-# ___Colección Análisis De La Información FIUBA___
+# _Colección Análisis De La Información FIUBA_
 
 <!-- 
 Descripcion
 Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips para esta catedra. Los drives contienen exámenes resueltos, apuntes, etc. FIUBA
 --> 
 
-### ___RESUELTOS:___
+### __RESUELTOS:__
 
 | Tipo de Ejercicio  | Mejor Resuelto | Mas Resueltos |
 | ------------------ | ---- | ---- |
@@ -19,15 +19,15 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 | Resumen Articulo  | [**90/100**](/Resuelto%2012.1)  |
 <!-- | Varios | [100/100](/Resuelto%204.8)  | -->
 
-### ___DRIVES___:
+### __DRIVES:__
 * [Drive Villagra 2021 _(Ejercicios resueltos y ___CUESTIONARIOS___ corregidos)_](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO)
 * [Drive de otra catedra](https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k)
 
-### ___CLASES___: 
+### __CLASES__: 
 * https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv (otra catedra)
 
-### ___TIPS___:
-- Queres ver los videos de ___EDPUZZLE RAPIDO___? Usa [___VIDEO SPEED CONTROLLER___](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) __[_extension de chrome_]__ _(_al X600 para __MAXIMA__ velocidad_)_
+### __TIPS__:
+- PARA VER LOS VIDEOS DE EDPUZZLE RAPIDO [___VIDEO SPEED CONTROLLER___](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) AL X600
 - El Onion Model pesa mucho mas que otros ejercicios. Arriba hay un modelo resuelto 100/100.
 - El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion.
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. Devuelta, la nota es 'subjetiva', depende quien te corrija
