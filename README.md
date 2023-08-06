@@ -20,14 +20,14 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 <!-- | Varios | [100/100](/Resuelto%204.8)  | -->
 
 ### __DRIVES:__
-* [Drive Villagra 2021 _(Ejercicios resueltos y ___CUESTIONARIOS___ corregidos)_](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO)
-* [Drive de otra catedra](https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k)
+* [Drive Villagra 2021 _(Ejercicios resueltos y ___cuestionarios___ corregidos)_](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO)
+* [Drive de la Catedra Turri](https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k)
 
 ### __CLASES__: 
-* https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv (otra catedra)
+* [Clases de la Catedra Turri](https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv)
 
 ### __TIPS__:
-- __PARA VER LOS VIDEOS DE EDPUZZLE RAPIDO [_VIDEO SPEED CONTROLLER_](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) AL X600__
+- __Para ver los videos de edpuzzle rapido usa [_video speed controller_](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) al x600__
 - El Onion Model pesa mucho mas que otros ejercicios. Arriba hay un modelo resuelto 100/100.
 - El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion.
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. La nota es 'subjetiva'
@@ -35,6 +35,6 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 - Para ___PROTOTIPOS___ --> ___BALSAMIQ___ _(Facil y Rapido)_.
 - Para ___DISEÑOS___ --> ___PENPOT O FIGMA___. Figma es medio enogrroso.
 
-### Subi __TODO__ lo que quieras ___100% ANONIMO___ [__link__](https://forms.gle/KTTUqcFEXLSGEHN3A)
+### Solo para los que tengan un ejercicio corregido con nota > que 60, por favor subanlo asi queda para cuatris proximos [__link__](https://forms.gle/KTTUqcFEXLSGEHN3A)
 
 ### Viva la Libertad Carajo!
