@@ -5,7 +5,7 @@ Descripcion
 Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips para esta catedra. Los drives contienen exámenes resueltos, apuntes, etc. FIUBA
 --> 
 
-### __RESUELTOS:__
+
 
 | Tipo de Ejercicio  | Mejor Resuelto | Mas Resueltos |
 | ------------------ | ---- | ---- |
