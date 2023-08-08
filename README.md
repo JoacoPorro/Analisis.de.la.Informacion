@@ -5,7 +5,7 @@ Descripcion
 Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips para esta catedra. Los drives contienen exámenes resueltos, apuntes, etc. FIUBA
 --> 
 
-
+### __Resueltos:__
 
 | Tipo de Ejercicio  | Mejor Resuelto | Mas Resueltos |
 | ------------------ | ---- | ---- |
@@ -19,14 +19,14 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 | Resumen Articulo  | [**90/100**](/Resuelto%2012.1)  |
 <!-- | Varios | [100/100](/Resuelto%204.8)  | -->
 
-### __DRIVES:__
+### __Drives:__
 * [Drive Villagra 2021 _(Ejercicios resueltos y ___cuestionarios___ corregidos)_](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO)
 * [Drive de la Catedra Turri](https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k)
 
-### __CLASES__: 
+### __Clases__: 
 * [Clases de la Catedra Turri](https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv)
 
-### __TIPS__:
+### __Tips__:
 - __Para ver los videos de edpuzzle rapido usa [_video speed controller_](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) al x600__
 - El Onion Model pesa mucho mas que otros ejercicios. Arriba hay un modelo resuelto 100/100.
 - El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion.
