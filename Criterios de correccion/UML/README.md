@@ -1,4 +1,4 @@
-## Criterios de corrección UML
+## Criterios de Corrección UML
 
 ### Muy críticos (invalidan la resolución si no están presentes)
 
