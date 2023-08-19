@@ -23,7 +23,7 @@
 - Faltas de ortografía
 -  Temas menores en layout, navegación, balanceo
 
-### Temas importantes en este ejercicio:
-- Debe balancear con lo hecho en el ejercicio 4.8
+### Temas importantes:
+- Debe balancear con lo hecho en el ejercicio anterior donde hiciste el UML, HDU y USM
 
 #### Sergio Recomendo este [articulo](https://www.nngroup.com/articles/ten-usability-heuristics/) para 'tener en cuenta' por Slack 
