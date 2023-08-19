@@ -9,5 +9,5 @@
 ![image](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/6eeb951d-803f-4423-a4bd-22b7dea60df3)
 #### (RF = Requisito Funcional - RNF = Requisto No Funcional)
 
-### Aca dejo un [Cuestionario](https://drive.google.com/file/d/1jOWBeyOqBpBUBxyTi1eqiOdKe_-AsWwN/view?usp=sharing) Corregido
+### Aca un [Cuestionario](https://drive.google.com/file/d/1jOWBeyOqBpBUBxyTi1eqiOdKe_-AsWwN/view?usp=sharing) Corregido
 
