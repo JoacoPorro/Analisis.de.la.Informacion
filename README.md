@@ -23,8 +23,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 * [Drive Villagra 2022 _(Ejercicios resueltos y ___cuestionarios___ corregidos)_](https://drive.google.com/drive/folders/11u4iLyzfOHkn36hI-Xb_QiASX-PUwqEO)
 * [Drive de la Catedra Turri](https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k)
 
-### __Clases__: 
-* [Clases de la Catedra Turri](https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv)
+<!--* [Clases de la Catedra Turri](https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv) (hay que pedir permiso) -->
 
 ### __Tips__:
 - __Para ver los videos de edpuzzle mas rapido usa [_video speed controller_](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) al x600__
