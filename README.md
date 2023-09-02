@@ -33,12 +33,12 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 ### __Tips__:
 - __Para ver los videos de edpuzzle mas rapido usa [_video speed controller_](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) al x600__
 - Ver los Criterios de Correccion para cada tipo de ejercicio (Arriba en una carpeta)
-- El Onion Model pesa mucho mas que otros ejercicios. Arriba hay un modelo resuelto 100/100.
-- El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion.
+- El Onion Model pesa mucho mas que otros ejercicios. Arriba hay un modelo resuelto 100/100
+- El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. La nota es 'subjetiva'
 - Toman lista viendo cuantos minutos estuviste en cada zoom, y veces llaman y si no estas se enojan
-- Para ___PROTOTIPOS___ --> ___BALSAMIQ___ _(Facil y Rapido)_.
-- Para ___DISEÑOS___ --> ___PENPOT O FIGMA___. Figma es medio enogrroso.
+- Para ___PROTOTIPOS___ --> ___BALSAMIQ___ _(Facil y Rapido)_
+- Para ___DISEÑOS___ --> ___PENPOT O FIGMA___. Figma es medio enogrroso
 
 ### Solo para los que tengan un ejercicio corregido con nota > que 60, por favor subanlo asi queda para cuatris proximos [__link__](https://forms.gle/KTTUqcFEXLSGEHN3A)
 
