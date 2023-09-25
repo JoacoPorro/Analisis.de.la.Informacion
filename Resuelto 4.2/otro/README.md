@@ -1,3 +1,3 @@
 ## Otro resuelto, este es del 2c 2032
 
-Arriba el archivo (como los de egon.io)
+Abrir el archivo que esta arriba con egon.io
