@@ -9,7 +9,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 
 | Tipo de Ejercicio  | Resueltos |
 | ------------------ | ---- | 
-| Onion Model  | [**100/100**](/3.2) - [**60/100**](/3.2/Otro%20Resuelto) |
+| Onion Model  | [**100/100**](/3.2) - [**90/100**](/3.2/Otro) - [**60/100**](/3.2/Otro%20Resuelto) |
 | HDU | [**Aprobado**](/Resuelto%204.2) |
 | UML | [**80/100**](/4.3)  |
 | UML | [**100/100**](/Resuelto%204.4)  |
