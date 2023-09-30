@@ -28,7 +28,6 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 <!--* [Clases de la Catedra Turri](https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv) (hay que pedir permiso) -->
 
 ### Clases:
-* [Grabaciones Youtube](https://www.youtube.com/playlist?list=PLsuhNHzuFQdli8Alwu49AzpPTwBt-pkZI) (las mias)
 * [Grabaciones Drive](https://drive.google.com/drive/u/1/folders/1zl531r38Ifhp5Ol9tJZ-2vbMP-8Mnr4Y)
 
 ### __Tips__:
