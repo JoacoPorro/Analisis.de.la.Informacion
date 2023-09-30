@@ -1,4 +1,4 @@
-## [Corregido](#correcciones) Nota 80/100
+## [Corregido](#correcciones) Nota 80/100. Ejercicio 4.3 2023
 
 ![Joaquín Porro - 9520-Actividad 4 3 (Desarrollo)_page-0001](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/35b7e350-96c7-4546-84af-baee108fdd9f)
 
