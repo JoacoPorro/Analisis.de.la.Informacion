@@ -10,7 +10,7 @@ Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips pa
 | Tipo de Ejercicio  | Resueltos |
 | ------------------ | ---- | 
 | Onion Model  | [**100/100**](/3.2) **—** [**90/100**](/3.2/Otro) **—** [**60/100**](/3.2/Otro%20Resuelto) |
-| HDU | [**Aprobado**](/Resuelto%204.2) |
+| HDU | [**Aprobado**](/Resuelto%204.2) | $\frac{5}{2}$ $\sqrt{3x-1}+(1+x)^2$ |
 | UML | [**80/100**](/4.3)  |
 | UML | [**100/100**](/Resuelto%204.4)  |
 | UML | [**100/100**](/Resuelto%204.7)  |
