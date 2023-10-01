@@ -13,7 +13,7 @@
 | UML | [**80/100**](/4.3)  |
 | UML | [**100/100**](/Resuelto%204.4)  |
 | UML | [**100/100**](/Resuelto%204.7)  |
-| Requisitos | [**40/100**](/Resuelto%204.9) **—** [**30/100**](/Resuelto%204.9/Otro) |
+| Requisitos | [**40/100**](/Resuelto%204.9) **—** [**30/100**](/Resuelto%204.9/Otro%20Resuelto) |
 | Base de Datos | [**60/100**](/Resuelto%2010.1)  |
 | Resumen Articulo  | [**90/100**](/Resuelto%2012.1)  |
 <!-- | Varios | [100/100](/Resuelto%204.8)  | -->
