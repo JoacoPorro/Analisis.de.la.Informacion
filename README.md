@@ -1,9 +1,8 @@
 # __Colección Aninfo Villagra FIUBA__
-
-<!-- 
-Descripcion
-Villagra 1C 2023 - Repositorio de drives, ejercicios resueltos 100/100 y tips para esta catedra. Los drives contienen exámenes resueltos, apuntes, etc. FIUBA
---> 
+<!--
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+-->
 
 ### __Resueltos:__
 
