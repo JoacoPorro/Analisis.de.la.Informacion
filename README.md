@@ -25,7 +25,7 @@
 * [Drive de la Catedra Turri](https://drive.google.com/drive/folders/1vEjo5breKTGSUYypnTbSi9aJm31dNi6k)
 
 ### Casos de Estudio
-* [2023 1C]()
+* [2023 1C](https://drive.google.com/drive/folders/1To4dA803tHCp7fj0YCcW1U6ZBlQxGY7A?usp=drive_link)
 * [2023 2C](https://drive.google.com/drive/folders/1Ye3nC0yMaHYkqPC-lPl3nUxIL8rTepvq?usp=drive_link)
 <!--* [Clases de la Catedra Turri](https://drive.google.com/drive/u/2/folders/1ZndUnM6n6G9mo4xO5XG9t1mK_kotYrSv) (hay que pedir permiso) -->
 
