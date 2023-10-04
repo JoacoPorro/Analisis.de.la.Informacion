@@ -37,7 +37,7 @@
 - Ver los Criterios de Correccion para cada tipo de ejercicio (Arriba en una carpeta)
 - El Onion Model pesa mucho mas que otros ejercicios. Arriba hay un modelo resuelto 100/100
 - El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion
-- Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. La nota es 'subjetiva'
+- Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. La nota es totalmente aleatoria
 - Toman lista viendo cuantos minutos estuviste en cada zoom, y veces llaman y si no estas se enojan
 - Para ___PROTOTIPOS___ --> ___BALSAMIQ___ _(Facil y Rapido)_
 - Para ___DISEÑOS___ --> ___PENPOT O FIGMA___. Figma es medio enogrroso
