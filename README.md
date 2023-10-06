@@ -10,7 +10,7 @@
 | ------------------ | ---- | 
 | Onion Model  | [**100/100**](/3.2) **—** [**90/100**](/3.2/Otro) **—** [**60/100**](/3.2/Otro%20Resuelto) |
 | HDU | [**50/100**](/Resuelto%204.2)|
-| UML | [**80/100**](/4.3)  |
+| UML | [**100/100**](/4.3/Otro) **—** [**80/100**](/4.3)  |
 | UML | [**100/100**](/Resuelto%204.4)  |
 | UML | [**100/100**](/Resuelto%204.7)  |
 | Requisitos | [**40/100**](/Resuelto%204.9) **—** [**30/100**](https://github.com/jporro/AnalisisDeLaInformacion/tree/main/Resuelto%204.9/Otro%20Resuelto) |
