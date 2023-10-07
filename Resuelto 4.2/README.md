@@ -1,4 +1,5 @@
-## Corregido 50/100 2C2023
+## Corregido 50/100 2C2023 
+### Arriba esta el pdf y el archivo de egon.io
 
 ![4punto2_page-0001](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/1754dd12-a24e-4d25-bc5d-2fde3a1ba4ad)
 ![4punto2_page-0002](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/ee915670-a210-44f5-a4f3-7da3a533b02b)
