@@ -1,4 +1,4 @@
-## Corregido Nota 30/100
+## Corregido Nota 30/100. [Caso 2023 1C](https://drive.google.com/drive/folders/1To4dA803tHCp7fj0YCcW1U6ZBlQxGY7A?usp=drive_link)
 
 ![Braian Villalba - 9520-Actividad 4 9 (Desarrollo)-1](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/299f2cc3-eab5-43fa-8d6f-ac695049f839)
 ![Braian Villalba - 9520-Actividad 4 9 (Desarrollo)-2](https://github.com/jporro/AnalisisDeLaInformacion/assets/103942784/8e46f190-754d-4c08-989b-a3f56112b764)
