@@ -1,4 +1,5 @@
-## Corregido 70/100 2C 2032
+## Corregido 70/100 
+## [Caso 2023 2C](https://drive.google.com/drive/folders/1Ye3nC0yMaHYkqPC-lPl3nUxIL8rTepvq?usp=drive_link)
 
 ![4punto2Otro_page-0001](https://github.com/jporro/Analisis.de.la.Informacion/assets/103942784/9802db09-a7cb-4eb8-9ef4-81f6581b18f4)
 ![4punto2Otro_page-0002](https://github.com/jporro/Analisis.de.la.Informacion/assets/103942784/ff1aada3-36d3-4943-96a6-73bbe8466907)
