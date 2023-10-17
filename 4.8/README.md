@@ -1,5 +1,4 @@
-## Corregido con nota 70/100
-## [Caso 2023 2C](https://drive.google.com/drive/folders/1Ye3nC0yMaHYkqPC-lPl3nUxIL8rTepvq?usp=drive_link)
+## Corregido con nota 70/100. [Caso 2023 2C](https://drive.google.com/drive/folders/1Ye3nC0yMaHYkqPC-lPl3nUxIL8rTepvq?usp=drive_link)
 ![Joaquín Porro - 9520-Actividad 4 8_page-0001](https://github.com/JoacoPorro/Analisis.de.la.Informacion/assets/103942784/4e013d7b-9666-4345-8fad-eed2afd07aa4)
 ![Joaquín Porro - 9520-Actividad 4 8_page-0002](https://github.com/JoacoPorro/Analisis.de.la.Informacion/assets/103942784/d427637a-b1c3-4bbb-92f6-1be061fc4da1)
 ![Joaquín Porro - 9520-Actividad 4 8_page-0003](https://github.com/JoacoPorro/Analisis.de.la.Informacion/assets/103942784/a1dd2032-cb81-428c-95d0-f1908fb59578)
