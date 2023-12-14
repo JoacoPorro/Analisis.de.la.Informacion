@@ -44,6 +44,5 @@
 - Para ___PROTOTIPOS___ --> ___BALSAMIQ___
 - Para ___DISEÑOS___ --> ___FIGMA___. Figma es medio enogrroso igual
 
-### Solo para los que tengan un ejercicio corregido con nota mas que 60, subanlo asi queda para la gente de cuatris proximos [__link__](https://forms.gle/KTTUqcFEXLSGEHN3A)
-
+### DEja Estrellita Arriba!
 ### Viva la Libertad Carajo!
