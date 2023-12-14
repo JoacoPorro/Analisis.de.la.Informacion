@@ -44,5 +44,5 @@
 - Para ___PROTOTIPOS___ --> ___BALSAMIQ___
 - Para ___DISEÑOS___ --> ___FIGMA___. Figma es medio enogrroso igual
 
-### DEja Estrellita Arriba!
+### Deja **⭐** Arriba
 ### Viva la Libertad Carajo!
