@@ -40,8 +40,9 @@
 - El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion
 - Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. La nota es totalmente aleatoria
 - Toman lista viendo cuantos minutos estuviste en cada zoom, y veces llaman y si no estas se enojan
-- Para ___PROTOTIPOS___ --> ___BALSAMIQ___ _(Facil y Rapido)_
-- Para ___DISEÑOS___ --> ___PENPOT O FIGMA___. Figma es medio enogrroso
+- Para ___UML___ --> ___DRAW.IO___
+- Para ___PROTOTIPOS___ --> ___BALSAMIQ___
+- Para ___DISEÑOS___ --> ___FIGMA___. Figma es medio enogrroso igual
 
 ### Solo para los que tengan un ejercicio corregido con nota > que 60, por favor subanlo asi queda para cuatris proximos [__link__](https://forms.gle/KTTUqcFEXLSGEHN3A)
 
