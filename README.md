@@ -34,15 +34,15 @@
 * [Grabaciones Drive](https://drive.google.com/drive/u/1/folders/1zl531r38Ifhp5Ol9tJZ-2vbMP-8Mnr4Y)
 
 ### __Tips__:
-- __Para ver los videos de edpuzzle mas rapido usa [_video speed controller_](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) al x600__
+- Para ver los videos de edpuzzle mas rapido usa [_video speed controller_](https://chrome.google.com/webstore/detail/super-video-speed-control/chnccghejnflbccphgkncbmllhfljdfa) al x600
 - Ver los Criterios de Correccion para cada tipo de ejercicio (Arriba en una carpeta)
-- El Onion Model pesa mucho mas que otros ejercicios. Arriba hay un modelo resuelto 100/100
-- El primer ejercicio de codigo (al menos en 1C 2023) __no lleva nota__, unicamente suma puntos de gamificacion
-- Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30 por lo general. La nota es totalmente aleatoria
+- El Onion Model pesa mas que otros ejercicios. Arriba hay resueltos
+- El primer ejercicio de codigo (al menos en 1C 2023) no lleva nota, unicamente suma puntos de gamificacion
+- Si un ejercicio tiene 1 o 2 cosas mal, directamente te ponen menos de 30
 - Toman lista viendo cuantos minutos estuviste en cada zoom, y veces llaman y si no estas se enojan
 - Para ___UML___ --> ___DRAW.IO___
 - Para ___PROTOTIPOS___ --> ___BALSAMIQ___
-- Para ___DISEÑOS___ --> ___FIGMA___. Figma es medio enogrroso igual
+- Para ___DISEÑOS___ --> ___FIGMA___
 
 ### Deja **⭐** Arriba
 ### Viva la Libertad Carajo!
